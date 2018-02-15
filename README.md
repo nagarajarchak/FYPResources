@@ -1,3 +1,2 @@
-# MLDLPapers
-Exhaustive list of ML research papers.
-This repository contains CNN and RNN research papers.
+# FYPResources
+This repository contains Convolutional Neural Networks research papers for classification of lung cancer.
