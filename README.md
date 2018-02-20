@@ -13,3 +13,7 @@
 > Datasets
 
 1. Lung Image Database Consortium (https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#cda78258407d41af86614bf0c054cbbc).
+
+> Links
+
+1. Epochs vs Iterations vs Batch Size (https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9).
