@@ -17,3 +17,7 @@
 > Links
 
 1. Epochs vs Iterations vs Batch Size (https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9).
+
+> About Lung Cancer
+
+1. Types of LC (http://www.cancerresearchuk.org/about-cancer/lung-cancer/stages-types-grades/types).
