@@ -17,6 +17,7 @@
 > Links
 
 1. Epochs vs Iterations vs Batch Size (https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9).
+2. DICOM pre-processing tutorial (https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial).
 
 > About Lung Cancer
 
