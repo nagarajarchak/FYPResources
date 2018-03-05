@@ -9,6 +9,7 @@
 - Uses Kaggle Data Science Bowl 2017 and LUng Nodule Analysis 2016 datasets.
 - Images of 512*512px in dimensions and labeled for presence or absence of cancer.
 - Preprocessing - removal of noise from neighbouring tissues, bones and air using segmentation by U-Net, downsampling, normalization. This is done to extract region of interest (cancer nodules).
+- Lookup Watershed (segmentation).
 ```
 
 2. Automated Classification of Lung Cancer Types from Cytological Images Using Deep CNN (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572620/).
