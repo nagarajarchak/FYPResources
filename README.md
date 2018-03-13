@@ -19,6 +19,15 @@
 6. Classification of Malignancy of Lung Nodules in CT Images using Convolutional Neural Network (http://www.lbd.dcc.ufmg.br/colecoes/wim/2016/003.pdf).
 7. Early Detection of Lung Cancer (https://www.atsjournals.org/doi/full/10.1164/rccm.200411-1479OC).
 
+> Literature Review
+
+1. Convolutional Neural Networks for Lung Cancer Screening in Computed Tomography Scans
+2. Deep Learning based Nodule Detection from Pulmonary CT Images
+3. ANN based Classification System for Lung Nodules on CT Scans
+4. Learning Deep Spatial Lung Features by 3D CNN for Early Cancer Detection
+5. Lung Nodule Detection based on 3D Convolutional Neural Networks
+6. Off The Shelf CNN Features for Pulmonary Nodule Detection in CT Scans
+
 > Datasets
 
 1. Lung Image Database Consortium (https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#cda78258407d41af86614bf0c054cbbc).
