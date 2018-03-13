@@ -21,12 +21,12 @@
 
 > Literature Review
 
-1. Convolutional Neural Networks for Lung Cancer Screening in Computed Tomography Scans
-2. Deep Learning based Nodule Detection from Pulmonary CT Images
-3. ANN based Classification System for Lung Nodules on CT Scans
-4. Learning Deep Spatial Lung Features by 3D CNN for Early Cancer Detection
-5. Lung Nodule Detection based on 3D Convolutional Neural Networks
-6. Off The Shelf CNN Features for Pulmonary Nodule Detection in CT Scans
+1. Convolutional Neural Networks for Lung Cancer Screening in Computed Tomography Scans (https://github.com/nagarajarchak/FYPResources/blob/master/Convolutional%20Neural%20Networks%20for%20Lung%20Cancer%20Screening%20in%20Computed%20Tomography%20Scans.pdf).
+2. Deep Learning based Nodule Detection from Pulmonary CT Images (https://github.com/nagarajarchak/FYPResources/blob/master/Deep%20Learning%20based%20Nodule%20Detection%20from%20Pulmonary%20CT%20Images.pdf).
+3. ANN based Classification System for Lung Nodules on CT Scans (https://github.com/nagarajarchak/FYPResources/blob/master/ANN%20based%20Classification%20System%20for%20Lung%20Nodules%20on%20CT%20Scans.pdf).
+4. Learning Deep Spatial Lung Features by 3D CNN for Early Cancer Detection (https://github.com/nagarajarchak/FYPResources/blob/master/Learning%20Deep%20Spatial%20Lung%20Features%20by%203D%20CNN%20for%20Early%20Cancer%20Detection.pdf).
+5. Lung Nodule Detection based on 3D Convolutional Neural Networks (https://github.com/nagarajarchak/FYPResources/blob/master/Lung%20Nodule%20Detection%20based%20on%203D%20Convolutional%20Neural%20Networks.pdf).
+6. Off The Shelf CNN Features for Pulmonary Nodule Detection in CT Scans (https://github.com/nagarajarchak/FYPResources/blob/master/Off%20The%20Shelf%20CNN%20Features%20for%20Pulmonary%20Nodule%20Detection%20in%20CT%20Scans.pdf).
 
 > Datasets
 
