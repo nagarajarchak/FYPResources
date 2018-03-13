@@ -28,11 +28,10 @@
 5. Lung Nodule Detection based on 3D Convolutional Neural Networks (https://github.com/nagarajarchak/FYPResources/blob/master/Lung%20Nodule%20Detection%20based%20on%203D%20Convolutional%20Neural%20Networks.pdf).
 6. Off The Shelf CNN Features for Pulmonary Nodule Detection in CT Scans (https://github.com/nagarajarchak/FYPResources/blob/master/Off%20The%20Shelf%20CNN%20Features%20for%20Pulmonary%20Nodule%20Detection%20in%20CT%20Scans.pdf).
 
-7. https://luna16.grand-challenge.org/home/  -  Dataset for Lung Nodule Detection (Position).
-
 > Datasets
 
 1. Lung Image Database Consortium (https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#cda78258407d41af86614bf0c054cbbc).
+2. Lung Nodule Position Detection (https://luna16.grand-challenge.org/home/).
 
 > Links
 
