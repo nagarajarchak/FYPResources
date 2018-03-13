@@ -32,6 +32,7 @@
 
 1. Lung Image Database Consortium (https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#cda78258407d41af86614bf0c054cbbc).
 2. Lung Nodule Position Detection (https://luna16.grand-challenge.org/home/).
+3. Kaggle Data Science Bowl 2017 Dataset (https://www.kaggle.com/c/data-science-bowl-2017).
 
 > Links
 
