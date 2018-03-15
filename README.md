@@ -40,6 +40,9 @@
 2. DICOM pre-processing tutorial (https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial).
 3. U-Net Code I (https://github.com/codedecde/Luna2016-Lung-Nodule-Detection/blob/master/UNET/Code/LUNA_unet.py).
 4. U-Net Code II (https://github.com/zhixuhao/unet/blob/master/unet.py).
+5. Preprocessing Tutorial Kaggle (https://www.kaggle.com/gzuidhof/full-preprocessing-tutorial).
+6. Kaggle Data Science 2017 Tutorial (https://www.youtube.com/playlist?list=PLQVvvaa0QuDd5meH8cStO9cMi98tPT12_).
+7. Kaggle Data Science 2017 Competiton (https://www.kaggle.com/c/data-science-bowl-2017).
 
 > About Lung Cancer
 
